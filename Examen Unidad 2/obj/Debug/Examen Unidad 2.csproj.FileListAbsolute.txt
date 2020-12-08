@@ -1,0 +1,30 @@
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\bin\Debug\Examen Unidad 2.exe.config
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\bin\Debug\Examen Unidad 2.exe
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\bin\Debug\Examen Unidad 2.pdb
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen Unidad 2.csprojAssemblyReference.cache
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen_Unidad_2.Form1.resources
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen_Unidad_2.Properties.Resources.resources
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen Unidad 2.csproj.GenerateResource.cache
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen Unidad 2.exe
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen Unidad 2.pdb
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen_Unidad_2.Inicio.resources
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen_Unidad_2.Empleados.resources
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\bin\Debug\LibreriaPersonal.dll
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\bin\Debug\LibreriaPersonal.pdb
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen Unidad 2.csproj.CopyComplete
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen_Unidad_2.Proveedores.resources
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\bin\Debug\Examen Unidad 2.exe.config
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\bin\Debug\Examen Unidad 2.exe
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\bin\Debug\Examen Unidad 2.pdb
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\bin\Debug\LibreriaPersonal.dll
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\bin\Debug\LibreriaPersonal.pdb
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen Unidad 2.csprojAssemblyReference.cache
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen_Unidad_2.Empleados.resources
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen_Unidad_2.Form1.resources
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen_Unidad_2.Inicio.resources
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen_Unidad_2.Properties.Resources.resources
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen_Unidad_2.Proveedores.resources
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen Unidad 2.csproj.GenerateResource.cache
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen Unidad 2.csproj.CopyComplete
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen Unidad 2.exe
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\Examen Unidad 2\obj\Debug\Examen Unidad 2.pdb

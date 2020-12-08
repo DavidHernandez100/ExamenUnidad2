@@ -1,0 +1,9 @@
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\LibreriaPersonal\bin\Debug\LibreriaPersonal.dll
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\LibreriaPersonal\bin\Debug\LibreriaPersonal.pdb
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\LibreriaPersonal\obj\Debug\LibreriaPersonal.dll
+C:\Users\YEYIAN\Desktop\Examen Unidad 2\LibreriaPersonal\obj\Debug\LibreriaPersonal.pdb
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\LibreriaPersonal\bin\Debug\LibreriaPersonal.dll
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\LibreriaPersonal\bin\Debug\LibreriaPersonal.pdb
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\LibreriaPersonal\obj\Debug\LibreriaPersonal.csprojAssemblyReference.cache
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\LibreriaPersonal\obj\Debug\LibreriaPersonal.dll
+C:\Users\YEYIAN\Desktop\Tareas\Semestre 5\Tópicos Avanzados\Examen Unidad 2\LibreriaPersonal\obj\Debug\LibreriaPersonal.pdb
